@@ -1,7 +1,5 @@
 # slow-gold — LACTF 2025
 
-**crypto / 500 pts / 0 solves during CTF**
-
 > *The scenes of life are gold, so let's take it slow. After all, how often is it that you get a second chance?*
 
 ## tl;dr
