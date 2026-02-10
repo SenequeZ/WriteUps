@@ -108,7 +108,3 @@ print(z.read("flag.txt").decode())
 ## flag
 
 `lactf{hojicha_chocolate_dubai_labubu}`
-
-## takeaway
-
-If your ORM/query builder infers schema from user-controlled data, you're gonna have a bad time. The mismatch between "what JS thinks the object looks like" and "what columns the SQL INSERT actually has" is a sneaky class of bugs. Always validate and normalize your inputs into a fixed shape before handing them to the database layer.
